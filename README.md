@@ -1,0 +1,1 @@
+Simple example demonstrates non-blocking client regex input implemented with web workers
